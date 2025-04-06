@@ -1,0 +1,15 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+button {
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
